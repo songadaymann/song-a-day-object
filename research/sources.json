@@ -1,0 +1,114 @@
+{
+  "checked": "2026-10-23",
+  "currency": "USD",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Waveshare 2.8-inch ESP32-S3 board / store",
+      "url": "https://www.waveshare.com/catalog/product/view/id/6456/s/esp32-s3-touch-lcd-2.8/category/337/",
+      "note": "Indexed manufacturer price $19.99-$25.99; select non-touch version and reconfirm checkout."
+    },
+    {
+      "id": "S02",
+      "title": "Waveshare hardware documentation",
+      "url": "https://docs.waveshare.com/ESP32-S3-LCD-2.8",
+      "note": "USB-C, SD, PCM5101 DAC and amplifier; supplied 8-ohm 2 W 2030 speaker. Active area and module drawing checked."
+    },
+    {
+      "id": "S03",
+      "title": "Elecrow CrowPanel Advance 2.4-inch",
+      "url": "https://www.elecrow.com/crowpanel-advance-2-4-hmi-esp32-320x240-ips-ai-display-artificial-intelligent-touchscreen-1.html",
+      "note": "Indexed manufacturer listing from $19.90. Page has conflicting resolution text: headline 320x240, specification table 800x480. Confirm exact SKU and speaker load."
+    },
+    {
+      "id": "S04",
+      "title": "EastRising ER-TFT024IPS-3 / BuyDisplay",
+      "url": "https://www.buydisplay.com/2-4-inch-ips-240x320-tft-lcd-display-capacitive-touch-screen",
+      "note": "Indexed manufacturer price $6.37 one / $5.71 at 100, base option. 42.72 x 59.26 x 2.3 mm; active 36.72 x 48.96 mm. Touch and connector options can add cost."
+    },
+    {
+      "id": "S05",
+      "title": "ESP32-S3-WROOM-1-N8R8 / DigiKey",
+      "url": "https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R8/15295891",
+      "note": "Reference USD price $6.32 one / $4.7741 at 100. Live page reports zero stock; price is not a procurement commitment."
+    },
+    {
+      "id": "S06",
+      "title": "MAX98357AETE+T / DigiKey",
+      "url": "https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX98357AETE-T/4936122",
+      "note": "USD $4.08 one / $2.56090 at 100; stock shown on page. Bare IC for custom PCB, not a complete module."
+    },
+    {
+      "id": "S07",
+      "title": "PUI AS04008MR-2-LWC80 / DigiKey",
+      "url": "https://www.digikey.com/en/products/detail/pui-audio-inc/AS04008MR-2-LWC80/29263743",
+      "note": "USD $4.94 one; $3.00725 at 80+ tier used for 100-unit estimate. 183 in stock at indexed check; recheck. 40 mm diameter x 5 mm, 8 ohm 2 W."
+    },
+    {
+      "id": "S08",
+      "title": "PUI AS04008CO-R slim speaker / DigiKey",
+      "url": "https://www.digikey.com/en/products/detail/pui-audio-inc/AS04008CO-R/1745535",
+      "note": "USD $6.08 one / $3.626 at 100; live stock shown. 40 x 20 x 5.8 mm; 8 ohm 2 W. Compact alternate for Cube, Horizon, Timber and Plinth."
+    },
+    {
+      "id": "S09",
+      "title": "Adafruit 128MB microSD, product 5250",
+      "url": "https://www.adafruit.com/product/5250",
+      "note": "USD $3.95 one / $3.16 at 100; live in stock. Use read-only song data after factory programming."
+    },
+    {
+      "id": "S10",
+      "title": "Sharp LS027B7DH01A / DigiKey",
+      "url": "https://www.digikey.com/en/products/detail/sharp-microelectronics/LS027B7DH01A/5054067",
+      "note": "USD $29.29 one / $23.606 at 10 / $19.06238 at 400. True reflective monochrome; active area 58.8 x 35.28 mm, 400x240. Not the panel shown in the six budget concepts."
+    },
+    {
+      "id": "S11",
+      "title": "Epishine indoor energy output",
+      "url": "https://www.epishine.com/faq/power-output-indoor-solar-cells",
+      "note": "Manufacturer gives up to 22 microwatts per square centimetre at 500 lux. Used as an optimistic indoor harvesting reference, not the performance of the Voltaic outdoor panel."
+    },
+    {
+      "id": "S12",
+      "title": "Voltaic P124 1.2 W / 6 V ETFE panel",
+      "url": "https://voltaicsystems.com/1-watt-6-volt-solar-panel-etfe/",
+      "note": "USD $14 one / $11.30 at 100. 113 x 66 x 2.6 mm, 31.6 g. Nominal marketed 1.2 W; listed peak test power 1.35 W, not indoor output."
+    },
+    {
+      "id": "S13",
+      "title": "Adafruit BQ24074 solar / USB charger, product 4755",
+      "url": "https://www.adafruit.com/product/4755",
+      "note": "USD $14.95 one / $11.96 at 100. Power-path/load sharing. Use its regulated LOAD output and a suitable 5 V boost stage; do not connect solar raw output to USB."
+    },
+    {
+      "id": "S14",
+      "title": "Adafruit protected 2200mAh cell, product 1781",
+      "url": "https://www.adafruit.com/product/1781",
+      "note": "USD $9.95 one / $7.96 at 100. 69 mm x 18 mm diameter, 46 g, 3.7 V nominal. Connector polarity and charge current must match the chosen circuit."
+    },
+    {
+      "id": "S15",
+      "title": "MEAN WELL GST18A05-P1J / Bravo Electro",
+      "url": "https://www.bravoelectro.com/gst18a05-p1j.html",
+      "note": "USD $14.10 one. Desktop 5 V / 3 A supply with AC cord, not a wall plug brick. AC lead and barrel-to-USB-C power adapter are extra; design includes neither."
+    },
+    {
+      "id": "S16",
+      "title": "Adafruit 40mm / 4-ohm speaker, product 3968",
+      "url": "https://www.adafruit.com/product/3968",
+      "note": "USD $4.95 one / $3.96 at 100. 40 mm x 20 mm. Live Adafruit and DigiKey both out of stock. Alternative for a separately verified 4-ohm amp, not a drop-in for the Waveshare supplied speaker."
+    },
+    {
+      "id": "S17",
+      "title": "Waveshare 2.7-inch e-paper",
+      "url": "https://www.waveshare.com/product/ai/displays/e-paper/2.7inch-e-paper-hat.htm",
+      "note": "Manufacturer selection table gives 6 s full refresh for this model. This inexpensive e-paper route does not support the intended continuous moving video."
+    },
+    {
+      "id": "S18",
+      "title": "PUI round-speaker engineering data",
+      "url": "https://puiaudio.com/product/speakers-and-receivers/as04008mr-2-lwc80",
+      "note": "Manufacturer confirms 40 x 40 x 5 mm, 8 ohm, 2 W, 10.7 g and 400 Hz resonance. No claim of hi-fi bass or tested system quality."
+    }
+  ]
+}

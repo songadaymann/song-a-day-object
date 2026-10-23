@@ -1,0 +1,6 @@
+[project]
+name = "song-a-day-object"
+version = "0.1.0"
+description = "Sourcing and Blender industrial-design studies for a one-song collectible"
+license = "GPL-3.0-or-later"
+requires-python = ">=3.10"

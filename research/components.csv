@@ -1,0 +1,24 @@
+route,role,part,purchase_quantity,unit_usd,price_status,source_id,notes,source_url,checked_date
+Prototype,Controller + LCD + audio,"Waveshare ESP32-S3-LCD-2.8, non-touch",1,19.99,"indexed listing, variant confirmation required",S01,73.06 x 50.54 x 10 mm module envelope; 57.60 x 43.20 mm active landscape,https://www.waveshare.com/catalog/product/view/id/6456/s/esp32-s3-touch-lcd-2.8/category/337/,2026-10-23
+Prototype,Song storage,"Adafruit 5250, 128MB microSD",1,3.95,"published one-off price, in stock",S09,Enough for about 28.1 MB per 4 minutes at proposed 12fps / 44.1 kHz mono format,https://www.adafruit.com/product/5250,2026-10-23
+Prototype,Better speaker,PUI AS04008MR-2-LWC80,1,4.94,"published one-off price, optional",S07,"40 mm diameter x 5 mm; 8 ohm / 2 W, audition required",https://www.digikey.com/en/products/detail/pui-audio-inc/AS04008MR-2-LWC80/29263743,2026-10-23
+Alternate,Slim speaker,PUI AS04008CO-R,100,3.626,published 100-unit price,S08,"40 x 20 x 5.8 mm, 8 ohm / 2 W",https://www.digikey.com/en/products/detail/pui-audio-inc/AS04008CO-R/1745535,2026-10-23
+Custom 100,Display,"EastRising ER-TFT024IPS-3, base non-touch",100,5.71,"indexed 100-unit price, confirm configuration",S04,48.96 x 36.72 mm active landscape,https://www.buydisplay.com/2-4-inch-ips-240x320-tft-lcd-display-capacitive-touch-screen,2026-10-23
+Custom 100,Controller,ESP32-S3-WROOM-1-N8R8,100,4.7741,"reference price, DigiKey zero stock",S05,18 x 25.5 x 3.1 mm module; sourcing blocker before production,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N8R8/15295891,2026-10-23
+Custom 100,Audio amplifier,MAX98357AETE+T,100,2.5609,published 100-unit IC price,S06,"I2S digital input, custom circuit and passives required",https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX98357AETE-T/4936122,2026-10-23
+Custom 100,Round speaker,PUI AS04008MR-2-LWC80,100,3.00725,published 80+ price tier applied to 100,S07,"8 ohm / 2 W, 40 mm x 5 mm",https://www.digikey.com/en/products/detail/pui-audio-inc/AS04008MR-2-LWC80/29263743,2026-10-23
+Custom 100,Storage,"Adafruit 5250, 128MB microSD",100,3.16,published 100-unit price,S09,Socket is in support-components allowance,https://www.adafruit.com/product/5250,2026-10-23
+Custom 100,PCB fabrication,Custom 2-layer PCB,100,1.5,"planning allowance, not quoted",,"Design, setup and shipping excluded",,2026-10-23
+Custom 100,Support components,"Regulator, USB-C, microSD/FPC sockets, ESD, passives",100,1.5,"planning allowance, not quoted",,Requires engineering and supplier BOM,,2026-10-23
+Custom 100,Enclosure,Simple polymer shell and grille,100,3.0,"optimistic planning allowance, not quoted",,Printing labour or injection tooling not validated,,2026-10-23
+Custom 100,Mute control,Tactile switch and button cap,100,0.4,"planning allowance, not quoted",,One exposed mute/unmute control,,2026-10-23
+Custom 100,Mechanical extras,"Gasket, feet, screws, optional ballast",100,0.9,"planning allowance, not quoted",,180-250 g target feel requires final mass calculation,,2026-10-23
+Custom 100,Cable,Thin 5 V USB power cable,100,1.0,"planning allowance, not quoted",,External AC supply not included,,2026-10-23
+Custom 100,Assembly + playback test,"Programming, assembly, short QC",100,2.5,"planning allowance, not quoted",,Long burn-in and operator time may increase cost,,2026-10-23
+Custom 100,Packaging,Simple protective packaging,100,1.0,"planning allowance, not quoted",,Retail packaging and outbound shipping excluded,,2026-10-23
+Solar add-on,Solar panel,Voltaic P124,1,14.0,published one-off price,S12,113 x 66 x 2.6 mm; requires strong sunlight,https://voltaicsystems.com/1-watt-6-volt-solar-panel-etfe/,2026-10-23
+Solar add-on,Charge / power path,Adafruit 4755 / BQ24074,1,14.95,published one-off price,S13,Use power-path output plus 5 V boost and temperature monitoring,https://www.adafruit.com/product/4755,2026-10-23
+Solar add-on,Energy storage,Adafruit 1781 / protected 2200mAh,1,9.95,published one-off price,S14,69 x 18 mm; cell aging still applies,https://www.adafruit.com/product/1781,2026-10-23
+Alternate,True monochrome display,Sharp LS027B7DH01A,1,29.29,published one-off panel price,S10,"Reflective 400 x 240, not e-paper; system video refresh still needs bench validation",https://www.digikey.com/en/products/detail/sharp-microelectronics/LS027B7DH01A/5054067,2026-10-23
+Alternate,Smaller integrated board,Elecrow CrowPanel Advance 2.4,1,19.9,"indexed starting price, confirm SKU",S03,77.1 x 51.8 x 15.8 mm; vendor page resolution conflict,https://www.elecrow.com/crowpanel-advance-2-4-hmi-esp32-320x240-ips-ai-display-artificial-intelligent-touchscreen-1.html,2026-10-23
+Alternate,Desktop AC supply,MEAN WELL GST18A05-P1J,1,14.1,published one-off supply price,S15,"5 V, 3 A; extra AC cord and USB-C adapter, not included in base cost",https://www.bravoelectro.com/gst18a05-p1j.html,2026-10-23

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01",
+    "name": "Monolith",
+    "file": "01_monolith.png",
+    "dimensions": [
+      90,
+      58,
+      104
+    ],
+    "display": "2.8-inch TFT, 57.60 x 43.20 mm",
+    "finish": "Fine matte black polymer; vermilion mute button",
+    "route": "Waveshare prototype; 40 mm round speaker upgrade",
+    "cost": "Approx. $36-$44 prototype parts with upgraded speaker",
+    "description": "The strongest first version: a small permanent shrine to one song. The taller body leaves room for the screen module above a round speaker. Thin USB power leaves the rear at shelf level.",
+    "risk": "Listening quality, bass and actual current draw remain untested. Black case is a visual material study, not a manufactured finish."
+  },
+  {
+    "id": "02",
+    "name": "Cube",
+    "file": "02_cube.png",
+    "dimensions": [
+      88,
+      88,
+      88
+    ],
+    "display": "2.8-inch TFT, 57.60 x 43.20 mm",
+    "finish": "Graphite polymer; aluminium mute button",
+    "route": "Waveshare module; 40 x 20 mm slim speaker",
+    "cost": "Approx. $37-$46 prototype parts with slim speaker",
+    "description": "The most sculptural shape. A deep, quiet object with a compact face and one button. The slim speaker fits below the module; extra depth can hold an isolated acoustic chamber and ballast.",
+    "risk": "Extra depth buys acoustic volume, not proven bass. A round 40 mm front driver needs a revised vertical layout."
+  },
+  {
+    "id": "03",
+    "name": "Horizon",
+    "file": "03_horizon.png",
+    "dimensions": [
+      128,
+      52,
+      80
+    ],
+    "display": "2.4-inch TFT, 48.96 x 36.72 mm",
+    "finish": "Warm ivory textured polymer; vermilion button",
+    "route": "Custom board and EastRising 2.4-inch panel",
+    "cost": "Custom baseline around $31 before freight and contingency",
+    "description": "A small shelf radio reduced to one song. Screen and speaker sit side by side, giving the sound a direct path forward. Two-color amber imagery can be changed per edition in the media conversion.",
+    "risk": "Requires custom electronics. The illustrated 2.4-inch screen is smaller than the Waveshare 2.8-inch prototype."
+  },
+  {
+    "id": "04",
+    "name": "Timber",
+    "file": "04_timber.png",
+    "dimensions": [
+      110,
+      64,
+      92
+    ],
+    "display": "2.8-inch TFT, 57.60 x 43.20 mm",
+    "finish": "Walnut appearance; dark inset baffle and woven grille",
+    "route": "Waveshare module; slim speaker; wood outer sleeve",
+    "cost": "Above the $30 target; wood fabrication not quoted",
+    "description": "A warmer keepsake: a dark video window held in a wood cabinet. A printed acoustic inner enclosure would sit inside a wood sleeve, so the outer material is free to carry the collectible character.",
+    "risk": "Wood machining and fabric application add labour. This is a premium material exploration, not a sourced enclosure."
+  },
+  {
+    "id": "05",
+    "name": "Solar Wedge",
+    "file": "05_solar_wedge.png",
+    "dimensions": [
+      128,
+      85,
+      96
+    ],
+    "display": "2.8-inch TFT; real 113 x 66 mm P124 solar envelope",
+    "finish": "Graphite polymer; indigo solar roof",
+    "route": "Waveshare, P124, power-path charger, cell and 5 V boost",
+    "cost": "Approx. $78-$95 prototype parts; above target",
+    "description": "A visible study of the solar ambition. The sloped top fits the actual panel footprint, with the mute button on the right side. Solar supplements the battery in good sunlight; USB backup remains at the rear.",
+    "risk": "Not self-sustaining on a normal indoor shelf. Charging, boost losses, temperature sensing and protected-cell integration need engineering."
+  },
+  {
+    "id": "06",
+    "name": "Plinth",
+    "file": "06_plinth.png",
+    "dimensions": [
+      96,
+      62,
+      98
+    ],
+    "display": "2.4-inch TFT, 48.96 x 36.72 mm",
+    "finish": "Terracotta-textured polymer; warm metal button; dark base",
+    "route": "Custom 2.4-inch board; slim speaker; wired contact base",
+    "cost": "Custom baseline plus an unquoted dock, roughly $4-$8 extra",
+    "description": "The cable belongs to the small display stand. The object receives low-voltage power through concealed underside contacts and remains battery-free. Its ceramic appearance is simulated in polymer to control cost.",
+    "risk": "The base still has a wire. Lifting the object stops playback without a battery or hold-up circuit. Dock contacts and stability are not engineered."
+  }
+]
